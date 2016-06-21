@@ -1,0 +1,3 @@
+This is a JavaScript function that I wrote for Chris Ward to help ensure and validate proper data for his Thesis work (Project here: https://github.com/cmward/text-scene)
+I did not write the .html file. The .html file is generated using the mTurk API and Boto and was created by Chris. I simply implemeneted the JavaScript code that
+starts on line 535.
