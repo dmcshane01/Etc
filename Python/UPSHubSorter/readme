@@ -3,3 +3,6 @@ CSV files used are confidential but the format of the csv is like so
 
 JUNK,  DATE, HUB, NAME, CITY, STATE, JUNK
 1232, 2016-05-02, 5716, UPS place, place, ST, 34382
+
+The output file is not ready for use as the python csv module inserts a bunch of garbage brackets and quotations. Need to use
+Notepad++ or some other program capable of replacing character sequences with a newline(/n) character
