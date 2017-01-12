@@ -1,0 +1,5 @@
+Script I wrote at work to group UPS shipment orders by hub numbers and sorts them by which hub has the oldest ship request, while still retaining the grouping.
+CSV files used are confidential but the format of the csv is like so
+
+JUNK,  DATE, HUB, NAME, CITY, STATE, JUNK
+1232, 2016-05-02, 5716, UPS place, place, ST, 34382
